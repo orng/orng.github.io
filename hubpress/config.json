@@ -4,7 +4,12 @@
     "repositoryName": "orng.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "https://twitter.com/__gorn",
+    "github": "https://github.com/orng"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
