@@ -4,7 +4,10 @@
     "repositoryName": "orng.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Test blog please ignore",
+    "description": "Testing things out"
+  },
   "socialnetwork": {
     "twitter": "https://twitter.com/__gorn",
     "github": "https://github.com/orng"
