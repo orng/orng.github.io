@@ -1,0 +1,4 @@
+= Test post
+
+This is a test post, to try this thing out. 
+Welcome to my blog btw, there is nothing to see here yet.
